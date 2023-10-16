@@ -1,0 +1,14 @@
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ConsoleAppAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ConsoleAppAndLoops.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ConsoleAppAndLoops.AssemblyInfo.cs
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ConsoleAppAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\bin\Debug\net6.0\ConsoleAppAndLoops.exe
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\bin\Debug\net6.0\ConsoleAppAndLoops.deps.json
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\bin\Debug\net6.0\ConsoleAppAndLoops.runtimeconfig.json
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\bin\Debug\net6.0\ConsoleAppAndLoops.dll
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\bin\Debug\net6.0\ConsoleAppAndLoops.pdb
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ConsoleAppAndLoops.dll
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\refint\ConsoleAppAndLoops.dll
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ConsoleAppAndLoops.pdb
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ConsoleAppAndLoops.genruntimeconfig.cache
+C:\Users\Adil\Desktop\ConsoleAppAndLoops\obj\Debug\net6.0\ref\ConsoleAppAndLoops.dll
